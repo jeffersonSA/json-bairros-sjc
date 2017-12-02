@@ -1,7 +1,8 @@
 # json-bairros-sjc
 json de bairros de São José dos Campos - SP
 
-{
+<code>
+    {
     "neighborhood":[
     {"name": "Águas da Prata","id":1},
     {"name": "Águas do Canindu","id":2},
@@ -387,4 +388,4 @@ json de bairros de São José dos Campos - SP
     ]
 }
 
-
+</code>
