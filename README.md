@@ -197,7 +197,6 @@ json de bairros de São José dos Campos - SP
     {"name": "Jardim São Dimas","id":192},
     {"name": "Jardim São Jorge","id":193},
     {"name": "Jardim São José","id":194},
-
     {"name": "Jardim São Judas Tadeu","id":195},
     {"name": "Jardim São Leopoldo","id":196},
     {"name": "Jardim São Vicente","id":197},
